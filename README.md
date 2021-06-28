@@ -15,7 +15,7 @@
 
 - 15,663 of the 5-star reviews were non-vine
 
-![]()
+![5 star review](https://github.com/SailFish17/Amazon_Vine_Analysis/blob/main/resources/5_Star_review.png)
 
 
 ## What percentage of Vine reviews were 5 stars? What percentage of non-Vine reviews were 5 stars?
