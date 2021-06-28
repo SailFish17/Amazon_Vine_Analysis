@@ -24,7 +24,7 @@
 - 38.9% of the five_star reviews were non-vine
 
 
-![]()
+![review bias](https://github.com/SailFish17/Amazon_Vine_Analysis/blob/main/resources/review%20percentage.png)
 
 ## Summary:
 
